@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #cambio de yaira
+=======
+#wabi sabi
+>>>>>>> 7392a0da9ce7594cc360307ef7e15b9c4bfb784d
 from sqlalchemy import create_engine, Column, Integer, String, text
 from sqlalchemy.orm import declarative_base, sessionmaker
 
